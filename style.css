@@ -1,0 +1,78 @@
+body {
+    background-color: #fffdf6;
+    font-family: "Work Sans", sans-serif;
+    font-size: 1.2rem;
+    color: #3b4d2d;
+}
+
+#title {
+    background-image: url("Images/background.png");
+}
+
+#title p{
+    font-size: 2rem;
+}
+
+#footer {
+    background-color: #ddeb9d;
+}
+
+.deep-green {
+    color: #3b4d2d;
+}
+
+.bold {
+    font-weight: 700;
+}
+
+.nav-link {
+    color: #3b4d2d;
+}
+
+.nav-link:hover{
+    color: #2A341B;
+}
+
+.title-intro {
+    font-size: 6rem;
+    font-family: "Ms Madi", cursive;
+}
+
+.section-title {
+    font-size: 4rem;
+    color: #a0c878;
+    font-weight: 700;
+}
+
+.sub-heading {
+    color: #7a9d5e;
+    font-weight: 700;
+    font-size: 1.3rem;
+}
+
+.img-profile {
+    height:230px;
+    width:230px;
+    object-fit: cover;
+    border-radius: 50%;
+}
+
+.btn-action {
+    background-color: #a0c878;
+    color: #fffdf6;
+    font-size: 1.3rem;
+}
+
+.btn-action:hover {
+    background-color: #7a9d5e;
+    color: #fffdf6;;
+}
+
+.card-img-top {
+    height: 300px;
+    object-fit: cover;
+}
+
+.card-text {
+    color: #3b4d2d;
+}
